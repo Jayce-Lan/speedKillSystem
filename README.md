@@ -10,4 +10,4 @@
 
 开发工具：IDEA、Postman（接口测试）、chrome、navicat
 
-使用技术：Spring Boot、JPA
+使用技术：Spring Boot、JPA、Redis、thymeleaf

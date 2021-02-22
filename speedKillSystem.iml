@@ -128,5 +128,19 @@
     <orderEntry type="library" name="Maven: org.attoparser:attoparser:2.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-redis:2.4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-redis:2.4.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-keyvalue:2.4.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-oxm:5.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.3.4" level="project" />
+    <orderEntry type="library" name="Maven: io.lettuce:lettuce-core:6.0.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.59.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.59.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.59.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.59.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.59.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.59.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
   </component>
 </module>

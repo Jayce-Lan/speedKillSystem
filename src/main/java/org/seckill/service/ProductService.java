@@ -2,6 +2,7 @@ package org.seckill.service;
 
 import org.seckill.model.AyProduct;
 
+import java.util.Collection;
 import java.util.List;
 
 /**
@@ -9,6 +10,13 @@ import java.util.List;
  */
 public interface ProductService {
     List<AyProduct> findAll();
+
+    /**
+     * 商品查询列表缓存
+     *
+     * @return
+     */
+    Collection<AyProduct> findAllCache();
 
     /**
      * 秒杀商品
